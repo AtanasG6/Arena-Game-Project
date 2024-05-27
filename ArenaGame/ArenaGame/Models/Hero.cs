@@ -62,7 +62,7 @@ namespace ArenaGame.Heroes
 			writer.WriteLine(string.Format(OutputMessages.HeroAttacks, Name, Level, target.Name, Weapon.Name, finalDamage), OutputColor.Red);
 			if (Pet != null)
 			{
-				writer.WriteLine($"{Pet.Type} pet assists {Name}, providing an additional effect.", OutputColor.Yellow);
+				writer.WriteLine(string.Format(OutputMessages.PetAssist, Pet.Type, Name), OutputColor.Yellow);
 			}
 
 			GainCoins(GameConstants.CoinsPerAttack);

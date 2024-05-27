@@ -17,5 +17,6 @@
 		public const string HeroFindsItem = "{0} finds a {1} item ({2}) and gains {3} XP.";
 		public const string HeroGainsHealth = "{0} gains {1} health. Total health: {2}";
 		public const string HeroGainsStrength = "{0} gains {1} strength. Total strength: {2}";
+		public const string PetAssist = "{0} pet assists {1}, providing an additional effect.";
 	}
 }
