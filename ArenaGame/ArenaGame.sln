@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArenaGame", "ArenaGame\ArenaGame.csproj", "{4D998AF9-C783-4AEB-9547-D285BF80C13A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArenaGame.Tests", "ArenaGame.Tests\ArenaGame.Tests.csproj", "{E83C26F6-6C94-4D2F-8454-4BB628EA7B8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4D998AF9-C783-4AEB-9547-D285BF80C13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D998AF9-C783-4AEB-9547-D285BF80C13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D998AF9-C783-4AEB-9547-D285BF80C13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83C26F6-6C94-4D2F-8454-4BB628EA7B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83C26F6-6C94-4D2F-8454-4BB628EA7B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83C26F6-6C94-4D2F-8454-4BB628EA7B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83C26F6-6C94-4D2F-8454-4BB628EA7B8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

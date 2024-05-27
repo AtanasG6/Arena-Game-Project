@@ -12,7 +12,7 @@
 		public const int BurningRoundsDuration = 3;
 		public const int BurningDamagePerRound = 5;
 		public const int FrozenRoundsDuration = 2;
-		public const double ItemFindChance = 0.4; // 40% chance to find an item
+		public const double ItemFindChance = 0.4;
 		public const int XPPerRarityLevel = 50;
 		public const int HealthBonusPerRarityLevel = 10;
 		public const int AttackBonusPerRarityLevel = 5;
