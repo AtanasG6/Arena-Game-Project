@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Core\Contracts\" />
+    <Folder Include="IO\Contracts\" />
+    <Folder Include="Models\Characters\" />
+    <Folder Include="Models\Contracts\" />
+    <Folder Include="Models\Enums\" />
+    <Folder Include="Models\Weapons\" />
+    <Folder Include="Repositories\Contracts\" />
+    <Folder Include="Utilities\" />
+  </ItemGroup>
+
+</Project>
