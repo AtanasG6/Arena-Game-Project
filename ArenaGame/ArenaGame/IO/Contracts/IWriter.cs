@@ -1,4 +1,6 @@
-﻿namespace ArenaGame.IO.Contracts
+﻿using ArenaGame.Utilities;
+
+namespace ArenaGame.IO.Contracts
 {
 	public interface IWriter
 	{
