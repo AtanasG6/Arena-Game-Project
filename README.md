@@ -75,19 +75,19 @@ ArenaGame/
 За да създадете герой и да стартирате битка, използвайте следните команди:
 
 - **Създаване на герой**:
-CreateHero <Name> <HeroType> <Armor> <Strength> <WeaponType> <PetType> <PetEffect>
+*```CreateHero <Name> <HeroType> <Armor> <Strength> <WeaponType> <PetType> <PetEffect>```*
 
 Пример:
 CreateHero Arthur Knight 50 100 BloodRestorationWeapon Attack 10
 
 - **Стартиране на битка**:
-StartBattle <AttackerName> <DefenderName>
+*```StartBattle <AttackerName> <DefenderName>```*
 
 Пример:
 StartBattle Arthur Eivor
 
 - **Край на играта**:
-End
+*```End```*
 
 
 ## ⚔️ Примерен ход на игра
