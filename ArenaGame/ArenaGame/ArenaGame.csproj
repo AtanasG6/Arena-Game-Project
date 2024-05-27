@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Core\Contracts\" />
-    <Folder Include="Models\Characters\" />
     <Folder Include="Repositories\Contracts\" />
   </ItemGroup>
 
