@@ -11,8 +11,6 @@
     <Folder Include="Controllers\" />
     <Folder Include="Core\Contracts\" />
     <Folder Include="Models\Characters\" />
-    <Folder Include="Models\Contracts\" />
-    <Folder Include="Models\Enums\" />
     <Folder Include="Models\Weapons\" />
     <Folder Include="Repositories\Contracts\" />
   </ItemGroup>
