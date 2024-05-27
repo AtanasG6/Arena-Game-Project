@@ -4,6 +4,8 @@ using ArenaGame.Models.Contracts;
 using ArenaGame.Utilities;
 using ArenaGame.Heroes;
 using ArenaGame.IO.Contracts;
+using ArenaGame.Core.Contracts;
+using ArenaGame.Repositories.Contracts;
 
 namespace ArenaGame.Controllers
 {
